@@ -1,4 +1,3 @@
-# Gustavo Freire
 [![Linkedin Badge](https://img.shields.io/badge/-gusfreire-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gusfreire/)](https://www.linkedin.com/in/gusfreire/)
 [![Gitlab Badge](https://img.shields.io/badge/-g.freire-red?style=flat-square&logo=Gitlab&logoColor=red&link=https://gitlab.com/g.freire)](https://gitlab.com/g.freire)
 [![Hackerrank Badge](https://img.shields.io/badge/-gustavomfreire-wh?style=flat-square&logo=HackerRank&logoColor=white&link=gustavomfreire)](https://www.hackerrank.com/gustavomfreire)
