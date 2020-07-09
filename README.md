@@ -1,16 +1,14 @@
-### Hi there 👋
+# Gustavo Freire
+[![Linkedin Badge](https://img.shields.io/badge/-gusfreire-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gusfreire/)](https://www.linkedin.com/in/gusfreire/)
+[![Gitlab Badge](https://img.shields.io/badge/-g.freire-red?style=flat-square&logo=Gitlab&logoColor=red&link=https://gitlab.com/g.freire)](https://gitlab.com/g.freire)
+[![Hackerrank Badge](https://img.shields.io/badge/-gustavomfreire-wh?style=flat-square&logo=HackerRank&logoColor=white&link=gustavomfreire)](https://www.hackerrank.com/gustavomfreire)
+[![Codewars Badge](https://www.codewars.com/users/g-freire/badges/micro)](https://www.codewars.com/users/g-freire)
 
-<!--
-**g-freire/g-freire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, 
+I'm Gustavo Freire, I'm a Full Stack Software Engineer and Systems Developer👨‍💻 who is passionate about Software, AI and EE
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Engineering and AI apps/systems
+- 💬 Ask me about: tech, philosophy, psychology, music, movies and finance
+- ⚡ Technologies: Python, Javascript, SQL/NoSQL, Golang, C#, DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things."
