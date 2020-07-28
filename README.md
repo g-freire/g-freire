@@ -6,8 +6,9 @@
 ## Hi 👋, 
 I'm Gustavo Freire, I'm a Full Stack Software Engineer and Systems Developer👨‍💻 who is passionate about Software, AI and EE
 
-- 🔭 I’m currently working on Engineering and AI apps/systems
-- 💬 Ask me about: tech, philosophy, psychology, music, movies and finance
+- 🔭 Working on Engineering and AI apps/systems
+- 💻 Creator of http://www.fluxo.digital/ and http://climaradar.com/ 
 - ⚡ Technologies: Python, Javascript, SQL/NoSQL, Golang, C#, DevOps
+- 💬 Ask me about: tech, philosophy, psychology, music, movies and finance
 
 "Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things."
