@@ -3,9 +3,6 @@
 [![Hackerrank Badge](https://img.shields.io/badge/-gustavomfreire-wh?style=flat-square&logo=HackerRank&logoColor=white&link=gustavomfreire)](https://www.hackerrank.com/gustavomfreire)
 [![Codewars Badge](https://www.codewars.com/users/g-freire/badges/micro)](https://www.codewars.com/users/g-freire)
 
-## Hi 👋, 
-I'm Gustavo Freire, I'm a Full Stack Software Engineer and Systems Developer👨‍💻 who is passionate about Software, AI and EE
-
 - 🔭 Working on Engineering and AI apps/systems
 - 💻 Creator of http://www.fluxo.digital/ and http://climaradar.com/ 
 - ⚡ Technologies: Python, Javascript, SQL/NoSQL, Golang, C#, DevOps
