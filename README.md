@@ -5,7 +5,7 @@
 
 - 🔭 Working on Engineering and AI apps/systems
 - 💻 Creator of http://www.fluxo.digital/ and http://climaradar.com/ 
-- ⚡ Technologies: Python, Javascript, SQL/NoSQL, Golang, C#, DevOps
+- ⚡ Technologies: Python, Golang, Javascript, SQL/NoSQL, C#, DevOps
 - 💬 Ask me about: tech, philosophy, psychology, music, movies and finance
 
 "Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things."
