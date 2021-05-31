@@ -3,7 +3,7 @@
 [![Hackerrank Badge](https://img.shields.io/badge/-gustavomfreire-wh?style=flat-square&logo=HackerRank&logoColor=white&link=gustavomfreire)](https://www.hackerrank.com/gustavomfreire)
 [![Codewars Badge](https://www.codewars.com/users/g-freire/badges/micro)](https://www.codewars.com/users/g-freire)
 
-- 🔭 Working on Gaming apps/systems (previously on finance, data analytics, marketing and engineering systems)
+- 🔭 Working on Gaming apps/systems (previously on AI, data analytics, finance, marketing and engineering systems)
 - 💻 Creator of http://www.fluxo.digital/ and http://climaradar.com/ 
 - ⚡ Technologies: Golang, Python, DevOps, Typescript, JS, SQL/NoSQL, C#
 - 💬 Let's talk about: tech, startups, finance, philosophy, psychology, music or movies 
