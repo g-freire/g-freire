@@ -3,9 +3,10 @@
 [![Hackerrank Badge](https://img.shields.io/badge/-gustavomfreire-wh?style=flat-square&logo=HackerRank&logoColor=white&link=gustavomfreire)](https://www.hackerrank.com/gustavomfreire)
 [![Codewars Badge](https://www.codewars.com/users/g-freire/badges/micro)](https://www.codewars.com/users/g-freire)
 
-- 🔭 Working on Gaming apps/systems (previously on AI, data analytics, finance, marketing and engineering systems)
+- 🔭 Working as Solution Architect(@Pretty Technical) and CTO(@Fair Pay)
+- Experience on Gaming, AI, Data Analytics, Finance, Marketing and Engineering Systems
 - 💻 Creator of http://www.fluxo.digital/ and http://climaradar.com/ 
-- ⚡ Technologies: Golang, Python, DevOps, Typescript, JS, SQL/NoSQL, C#
+- ⚡ Technologies: Golang, Python, DevOps, C#, Typescript, JS, SQL/NoSQL 
 - 💬 Let's talk about: tech, startups, finance, philosophy, psychology, music or movies 
 
 "Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things."
