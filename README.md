@@ -3,9 +3,9 @@
 [![Hackerrank Badge](https://img.shields.io/badge/-gustavomfreire-wh?style=flat-square&logo=HackerRank&logoColor=white&link=gustavomfreire)](https://www.hackerrank.com/gustavomfreire)
 [![Codewars Badge](https://www.codewars.com/users/g-freire/badges/micro)](https://www.codewars.com/users/g-freire)
 
-- 🔭 Working as Solution Architect(@Pretty Technical) and CTO(@Fair Pay)
-- Experience on Gaming, AI, Data Analytics, Finance, Marketing and Engineering Systems
-- 💻 Creator of http://www.fluxo.digital/, http://climaradar.com/ , https://apps.apple.com/al/app/fair/id1566780953
+- 💻 Working as Solution Architect(@Pretty Technical) and as CTO(@Fair Pay)
+- 🔭 Experience on Gaming, AI, Data Analytics, Finance, Marketing and Engineering Systems
+- 📝 Creator of http://www.fluxo.digital/, http://climaradar.com/ , https://apps.apple.com/al/app/fair/id1566780953
 - ⚡ Technologies: Golang, Python, DevOps, C#, Typescript, JS, SQL/NoSQL 
 - 💬 Let's talk about: tech, startups, finance, philosophy, psychology, music or movies 
 
