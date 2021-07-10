@@ -5,7 +5,7 @@
 
 - 🔭 Working as Solution Architect(@Pretty Technical) and CTO(@Fair Pay)
 - Experience on Gaming, AI, Data Analytics, Finance, Marketing and Engineering Systems
-- 💻 Creator of http://www.fluxo.digital/ and http://climaradar.com/ 
+- 💻 Creator of http://www.fluxo.digital/, http://climaradar.com/ , https://apps.apple.com/al/app/fair/id1566780953
 - ⚡ Technologies: Golang, Python, DevOps, C#, Typescript, JS, SQL/NoSQL 
 - 💬 Let's talk about: tech, startups, finance, philosophy, psychology, music or movies 
 
