@@ -6,7 +6,7 @@
 - 💻 Working as Solution Architect(@Pretty Technical) and as CTO(@Fair Pay)
 - 🔭 Experience on Gaming, AI, Data Analytics, Finance, Marketing and Engineering Systems
 - 📝 Creator of https://apps.apple.com/al/app/fair/id1566780953, http://www.fluxo.digital/, http://climaradar.com/ , https://iot-usp.herokuapp.com/, 
-- ⚡ Technologies: Golang, Python, DevOps, C#, Typescript, JS, SQL/NoSQL 
+- ⚡ Technologies: Golang, Python, JS, SQL/NoSQL, Kafka, Kubernetes, DevOps, AWS
 - 💬 Let's talk about: tech, startups, finance, philosophy, psychology, music or movies 
 
 "Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things."
