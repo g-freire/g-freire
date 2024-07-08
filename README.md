@@ -4,8 +4,8 @@
 [![Codewars Badge](https://www.codewars.com/users/g-freire/badges/micro)](https://www.codewars.com/users/g-freire)
 
 - 💻 Working as Head of Engineering at AI-Collaborator. Previously Solution Architect(@Pretty Technical) and CTO(@Fair Pay)
-- 🔭 Experience on Gaming, AI, Data Analytics, Finance, Marketing and Engineering Systems
-- 📝 Creator of https://apps.apple.com/al/app/fair/id1566780953, http://www.fluxo.digital/, http://climaradar.com/ , https://iot-usp.herokuapp.com/, 
+- 🔭 Experience on AI, Data Analytics, Finance, Marketing and Engineering Systems
+<> - 📝 Creator of https://apps.apple.com/al/app/fair/id1566780953, http://www.fluxo.digital/, http://climaradar.com/ , https://iot-usp.herokuapp.com/, 
 - ⚡ Technologies: Golang(Cloud), Python(AI), JS(UX), SQL/NoSQL(Db), Kafka, ELK, Kubernetes, Serverless, AWS
 - 💬 Let's talk about: tech, startups, ai, finance, psychology, philosophy music or movies 
 
